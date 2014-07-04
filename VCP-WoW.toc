@@ -1,0 +1,7 @@
+## Title: VCP-WoW |cffb5a5d5[0.0.100]|r
+## Version: 0.0.11
+## Author: Kulldam
+## Notes: VCP-WoW
+## Interface: 50200
+
+VCP-WoW.lua
